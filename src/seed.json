@@ -1,0 +1,30 @@
+{
+    "pageTitle":"Teles Dourado | Profile",
+    "name": "Teles Dourado",
+    "title": "Software Engnieer em @amedigital",
+    "social":[
+        {
+            "name": "Instagram",
+            "link": "https://instagram.com/tellesdourado"
+        },
+        {
+            "name": "LinkedIn",
+            "link": "https://www.linkedin.com/in/telesdourado"
+        },
+        {
+            "name": "GitHub",
+            "link": "https://github.com/tellesdourado"
+        },
+        {
+            "name": "Email",
+            "link": "mailto:dev@telesdourado.com"
+        },
+        {
+            "name": "WhatsApp",
+            "link": "https://api.whatsapp.com/send?phone=5599991224075&text=oi"
+        }
+
+    ],
+    "ig-api": "https://www.instagram.com/tellesdourado/?__a=1",
+    "author": "@tellesdourado"
+}
