@@ -55,7 +55,7 @@ function App() {
       </div>
 
       <div className="text-center">
-        <p style={{ color: "#34312f" }}>powered {seed.author}</p>
+        <p style={{ color: "#34312f" }}>powered by {seed.author}</p>
       </div>
     </>
   );
